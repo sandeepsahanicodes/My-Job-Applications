@@ -41,5 +41,6 @@
 | 37 | Swiggy Instamart | iOS Developer Intern | No Response | NO | Unable to solve the assignment properly. |
 | 38 | Systematic Business | Internship on iOS Development | Applied | - | - |
 | 39 | Cisco | Software Development, Test and Automation Engineer - Wireless (Meraki) | Applied | - | - |
+| 40 | Greendzine Tech| Software Development Trainee | Applied | - | - |
 
 ---
